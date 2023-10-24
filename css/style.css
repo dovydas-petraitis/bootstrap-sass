@@ -10351,7 +10351,7 @@ main {
 .about-us-block {
   padding-top: 250px;
   font-family: Poppins, sans-serif; }
-  .about-us-block h3, .about-us-block .h3 {
+  .about-us-block__title {
     color: #000;
     font-size: 3rem;
     font-style: normal;
@@ -10442,6 +10442,13 @@ footer {
     font-size: 1.25rem;
     font-style: normal;
     font-weight: 600;
+    line-height: normal; }
+  footer .additional {
+    color: rgba(0, 0, 0, 0.5);
+    font-family: Poppins;
+    font-size: 0.9375rem;
+    font-style: normal;
+    font-weight: 400;
     line-height: normal; }
   footer li {
     color: #6C6C6C;
