@@ -1,0 +1,33 @@
+
+main {
+    
+    font-family: $base-font;
+
+    h2{
+        color: #000;
+        font-size: 3rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    p{
+        color: rgba(0, 0, 0, 0.46);
+        font-size: 1.25rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    
+    .main-btn{
+        font-size: 1.25rem;
+        font-weight: 700; 
+        color:white;
+        border-radius: 0.625rem;
+        background: #682C0E;
+        width: 12.5rem;
+        height: 2.75rem; 
+    }
+
+}
+

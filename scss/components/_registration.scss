@@ -1,0 +1,35 @@
+
+
+.register-info-block {
+    margin-top:300px;
+    margin-bottom: 150px;
+    font-family: $base-font;
+
+    h3{
+        color: #000;
+        font-size: 3rem;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal; 
+    }
+
+    .subscribe-btn {
+        background: #C24914;
+    }
+
+    .register-form {
+        background-color:#F9E0AE;
+    }
+
+    .subscribe-btn {
+        color: #FFF;
+        font-size: 1.25rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .registration-block {
+        margin-top:80px;
+    }
+}
